@@ -5,7 +5,7 @@ registro/login con **Supabase Auth**, compra que controla el stock y calcula el 
 **en el backend** (Express + Supabase) y front en JavaScript. Desplegado en **Vercel**.
 
 **Integrantes:** Fran Sosa · Alejo Obreque
-**Link del deploy:** _completar_
+**Link del deploy:** https://tienda-bicicleteria-kaoh.vercel.app/
 
 ---
 
@@ -103,8 +103,8 @@ registro/login con **Supabase Auth**, compra que controla el stock y calcula el 
 - [x] Carrito
 - [x] Registro y login
 - [x] Compra que controla el stock y calcula el total en el backend
-- [ ] Deploy en Vercel funcionando
-- [ ] Este README actualizado con el link del deploy y los integrantes
+- [x] Deploy en Vercel funcionando
+- [x] Este README actualizado con el link del deploy y los integrantes
 
 ## Extras para mejor nota
 
