@@ -4,7 +4,7 @@ E-commerce de una bicicletería: catálogo con fotos y filtro por categoría, ca
 registro/login con **Supabase Auth**, compra que controla el stock y calcula el total
 **en el backend** (Express + Supabase) y front en JavaScript. Desplegado en **Vercel**.
 
-**Integrantes:** _completar_
+**Integrantes:** Fran Sosa · Alejo Obreque
 **Link del deploy:** _completar_
 
 ---
