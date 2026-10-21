@@ -1,6 +1,5 @@
 // MODEL DE PRODUCTOS: el catalogo
 const { supabase } = require('../config/supabaseClient');
-const { faltaImplementar } = require('../utils/errores');
 
 // Las categorias para el filtro del front (ya resuelto)
 async function obtenerCategorias() {

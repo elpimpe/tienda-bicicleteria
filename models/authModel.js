@@ -1,6 +1,5 @@
 // MODEL DE USUARIOS: registro y login con Supabase Auth
 const { supabase, auth } = require('../config/supabaseClient');
-const { faltaImplementar } = require('../utils/errores');
 
 // Registro: Auth crea el usuario y nosotros guardamos su perfil
 async function registrar(email, password, nombre) {

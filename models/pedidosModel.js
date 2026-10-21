@@ -1,6 +1,5 @@
 // MODEL DE PEDIDOS: la compra
 const { supabase } = require('../config/supabaseClient');
-const { faltaImplementar } = require('../utils/errores');
 
 // Un error que es culpa del cliente: el controller lo responde con 400
 function errorCliente(mensaje) {
